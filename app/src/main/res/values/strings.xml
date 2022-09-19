@@ -1,0 +1,87 @@
+<resources>
+    <string name="app_name">AgriCare</string>
+    <string name="bb_mngmnt">
+        Rotating cotton with soybean or corn plantings for one or more years will help reduce the severity of
+        bacterial blight on the next cotton crop.Plant only acid-delinted seed produced in fields free of this
+        disease.Plant resistant varieties.
+    </string>
+    <string name="bb_symptoms">
+        On cotyledons, bacterial blight causes small, quarter-inch-diameter lesions that are initially dark green
+        turning to dark brown. It may cause black cankers on the stems of seedlings and older plants. Symptoms on
+        the leaves may appear throughout the growing season. Symptoms will be most severe on leaves when the humidity
+        is high with air temperatures average 86 to 95 degrees Fahrenheit and when rain, heavy dew, fog or sprinkle
+        irrigation are frequent. The first leaf symptoms are light-green spots that are visible on the upper and lower
+        surfaces of the leaves. These spots are usually 1/16 inch to 1/8 inch in diameter and quickly turn dark brown
+        to black (Figure 71). The margin of these spots will have some sharp angles. Leaves with lots of individual
+        lesions may defoliate prematurely. This disease may also develop on bolls. The round, light-green lesions on
+        bolls may develop into boll rot.</string>
+    <string name="bb">
+        Bacterial blight, sometimes called angular blight, occurs on cotton in most parts of the world.
+        The severity of this disease in the United States was greater in the 1970s than in the 1990s.
+        Weather greatly affects the severity of this disease. Bacterial blight is usually least severe
+        or absent during hot dry conditions, but it can be severe during warm, wet weather. In Missouri,
+        this disease was severe enough in the 1960s and early 1970s to cause yield losses. Missouri farmers
+        experienced little if any yield losses due to bacterial blight in the 1980s, and it was rare in the 1990s.
+        This disease has occurred rarely in Missouri since the mid-1980s because farmers planted acid-delinted seed
+        of varieties with resistance to bacterial blight.</string>
+
+
+    <string name="curl_mngmnt">
+       Use certified disease free seeds. Ensure weed free field and surroundings. Use resistant or tolerant cultivar.
+Do not plant cotton crop near tomato and other crops susceptible to whiteflies.
+
+    </string>
+    <string name="curl_symptoms">
+        This is a viral disease, which is spread by white fly. Firstly, its effect is seen on the upper soft leaves.
+        The primary symptom of this disease is that the leaves curl upward and small veins become thick.
+        Such plants remain small in size, flowers and buds does not formed. Their growth stops suddenly and it has a
+        very adverse effect on yield.The area where this disease is more, desi cotton should be sown because this disease does not occur in desi cotton. Different type of weeds are also helpful in spreading of this disease.
+The temperature on which this disease is most likely to spread is 25-30°c. Cotton plants are at high risk of infection during seedling.
+Damage - White fly damages the cotton plant by sucking the sap. Due to this disease, there is reduction in yield by which farmer does not get fair price.
+
+Control - Application of triazophos 40 EC @ 1.5 ml/litre or imidacloprid 0.5 ml/litre of water.
+</string>
+    <string name="curl">
+       Cultivation of cotton, a leading natural fiber crop, is as old as the human ancient civilization. Traces of cotton (∼7000 years old) have been recovered from archaeological sites in Mexico. Also, the cultivation of desi cotton (Gossypium arboreum L.) in Mohenjo-daro (located in Sindh, Pakistan) was dated back to 6000 BC (Moulherat et al., 2002). Similarly, the evidence of cotton usage around 1500 BC was also reported in Reg Vida—the most ancient text of Sanskrit. Cotton cloths were introduced to Europe about 800 AD by Arab merchants. Later, the revolution in textile industry (spinning, weaving, etc.) not only paved the way for the introduction of cotton genotypes worldwide at massive scale but also replaced the cultivated diploid species (G. arboreum and G. herbaceum, both carry A-genome) with tetraploid cotton (G. hirsutum) in most parts of the world including India and Pakistan. It is worth to mention that G. hirsutum L. was introduced in subcontinent (India, Pakistan, and Bangladesh) ∼200 years ago, however, its cultivation started on a large scale in the 1930s in parallel to the revolution in textile industry (Rahman et al., 2014c). Now, cotton is cultivated in more than 80 countries—cultivated on 32.6 million ha with an annual production of 24.1 million tons1; however, the major cotton growing countries are China, India, United States, Pakistan, and Uzbekistan. Presently, cotton production is stagnant or even decreasing in many parts of the world due to the prevalence of multiple biotic and abiotic stresses. Among the biotic stresses, cotton leaf curl disease (CLCuD) is one of the major growing threats to cotton production. Historically, a first evidence of CLCuD was reported on native cultivated cotton species (G. peruvianum and G. vitiforum) in Nigeria in 1912 (Kirkpatrick, 1931). The word “leaf curl” was coined because of the typical upward curling of the leaves. In 1924, it was noticed for the first time on G. hirsutum in Oyo, Nigeria with characteristic symptoms of downward curling of leaves and change in leaf texture and color. The disease also infected the cotton crop in Sudan in 1924, followed by the outbreak of the disease in cotton fields of Northern Africa and Tanzania (Hussain et al., 1991). It took almost four decades to reach Pakistan. It was reported for the first time in a village near Multan, Pakistan in 1967, but remained neglected until it appeared in epidemic form in the early 1990s (Briddon and Markham, 2001). The total financial losses occurred between 1992 and 1997 were ∼5 billion US$ to the economy of Pakistan (Idris, 1990). The disease was also transmitted to cotton crop in India (Chowda Reddy et al., 2005) which was grown at the periphery of cotton growing belt of Pakistani Punjab, and later spread to the northern cotton growing areas of India
+</string>
+
+
+    <string name="chewing_mngmnt">
+       From emergence until harvest, various pests attack the roots, leaves, stems or fruit (squares, blooms and bolls) of cotton. Growers and their field scouts must be vigilant in locating these pest outbreaks so that timely control measures can be undertaken (Figure 3). Economic threshold levels have been established for many cotton pests. A threshold infestation is the point at which control measures are needed to prevent the target pest from reaching its economic injury level (when control costs equal damage caused by the pest). The goal should be to suppress pest populations not annihilate them. Missing the opportunity to control threshold infestations and targeting the pests, earlier growth stages can lead to a greater number of pesticide applications. This increases production costs and yield losses, secondary pest outbreaks, and pest resistance to future chemical control measures. Growers are encouraged to use all practical integrated pest management (IPM) practices to maximize crop production while minimizing economic and environmental costs. The philosophy of IPM is to incorporate different control practices and avoid relying on just one control method.
+
+    </string>
+    <string name="chewing_symptoms">
+Chewing damage to plants from insects can take many forms.  Foliage or flowers may simply disappear as it is completely consumed by some insects.  Other times plant may look ragged and, upon inspection, have chewed edges or centers.  Sometimes plants are cut at the base and fall over, or twigs may be girdled and die.  Chewing damage inside a plant is usually referred to as mining or boring.  Sometimes only the upper or lower surfaces of a plant are consumed, leaving a brown, scorched appearance, or openings between the veins, called skeletonization.
+</string>
+    <string name="chewing">
+      The primary species that attack cotton are: black, granulated and variegated cutworms. Several different species of thrips (flower, soybean, tobacco and western flower) may attack cotton. Yellowstriped armyworms are seedling pests; whereas beet (foliage) and fall (boll) armyworms are more late-season pests.
+Insect management
+
+</string>
+
+    <string name="managment">
+    General disease management There are several strategies for managing diseases in cotton. The three most important are crop rotation, planting
+    disease-resistant varieties, and planting high-quality seed in warm, well-drained soil. An integrated approach
+    that uses all of these methods usually is the most effective and profitable.Rotating cotton with corn and certain
+    soybean varieties will help manage several cotton diseases. For example, the number of root-knot nematodes in the
+    soil declines when a soybean variety that is resistant to root-knot nematode is planted. The population of this
+    nematode will fall below the cotton damage threshold after planting a resistant soybean variety for a few years.
+    No variety of cotton is resistant to all cotton diseases. However, some cotton varieties often have improved levels of
+    resistance to root-knot nematode, Fusarium and Verticillium wilt, bacterial blight and bronze wilt. Farmers should
+    choose varieties based on MU yield trials in their area and resistance to locally significant diseases.
+    Farmers should plant seeds that germinate quickly and produce vigorous seedlings for a uniform stand. There are two
+    germination tests, a warm test and a cool test, that are useful for predicting how a seed lot will perform in the field.
+    In general, the warm germ test (about 86 degrees Fahrenheit) will estimate the percent emergence under highly favorable
+    conditions, while the cool germ test (64 degrees Fahrenheit) will estimate emergence under more typical, somewhat adverse
+    conditions. Minimum acceptable percent germination levels for cotton planting seed are 80 percent on the warm test and 50
+    percent on the cool test. The warm germination test results are printed on most bags of seed. Growers should ask their seed
+    dealer for the warm and cool germ test results for their seed, and should only plant seed that germinates well, especially
+    when planting early or in heavy soil. Fungicide seed treatments on most commercially sold seed protect seed from rot.
+    When planting early or in poorly drained, clay soil, use an in-furrow fungicide for extra protection against organisms that
+    cause seedling diseases. The fungicides applied by the seed supplier help protect the seed and seedling against rot (step 2),
+    but will not protect the seedling from all seedling diseases. A fungicide applied in the furrow at planting will provide
+    additional protection against seedling diseases. In-furrow applied fungicides are available in granule or liquid formulation
+</string>
+
+
+</resources>

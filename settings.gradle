@@ -1,0 +1,3 @@
+rootProject.name = "AgriCare"
+include ':app'
+include ':translateapi'

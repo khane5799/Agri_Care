@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "793953629440",
+    "project_id": "agricare1-8fe07",
+    "storage_bucket": "agricare1-8fe07.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:793953629440:android:6be24365b4eb9171362fe5",
+        "android_client_info": {
+          "package_name": "com.example.agricare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "793953629440-bhp4hk0iia1hfoqb1fidbq78qtm942a5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEHCKmUhp4XNBEG1u87Zh_DJnOjuUWyl8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "793953629440-bhp4hk0iia1hfoqb1fidbq78qtm942a5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
